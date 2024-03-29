@@ -1,0 +1,32 @@
+.Titulo{
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.parrafo{
+    font-family: sans-serif;
+    align-items: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.lista{
+    font-family: sans-serif;
+    font-size: 25px;
+    padding-left: 120px;
+}
+
+img{
+    width: 250px;
+    height: 150px;
+    border-radius: 0.4rem;
+    margin-bottom: 40px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
